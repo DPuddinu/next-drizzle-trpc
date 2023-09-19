@@ -1,0 +1,13 @@
+{
+  "hasSrc": true,
+  "packages": [
+    "drizzle",
+    "trpc"
+  ],
+  "preferredPackageManager": "pnpm",
+  "rootPath": "src/",
+  "driver": "pg",
+  "provider": "vercel-pg",
+  "orm": "drizzle",
+  "auth": null
+}
